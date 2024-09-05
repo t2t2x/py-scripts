@@ -1,5 +1,5 @@
 def main():
-    get_name("sarah")
+    get_name("david")
 
 def get_name(name):
     print(f'hello, {name}!')
