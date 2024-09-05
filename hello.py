@@ -1,5 +1,5 @@
 def main():
-    get_name("david")
+    get_name("ubuntu, says hello")
 
 def get_name(name):
     print(f'hello, {name}!')
