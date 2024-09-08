@@ -1,8 +1,8 @@
 def main():
-    get_name("windows thinkpad")
+    get_name("ubuntu")
 
 def get_name(name):
-    print(f'hello, {name} hello again!')
+    print(f'hello, {name}!')
 
 if __name__ == "__main__":
     main()
